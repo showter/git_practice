@@ -1,3 +1,4 @@
 msg = "Hello the world!"
 puts msg
-push msdos
+
+name = gets.chomp
