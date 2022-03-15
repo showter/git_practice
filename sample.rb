@@ -1,4 +1,4 @@
-msg = "Hello the world!"
+msg = "Hello world!"
 puts msg
 
 name = gets.chomp
